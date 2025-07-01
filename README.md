@@ -6,7 +6,6 @@
 ## Hi, I'm OSEI, a passionate junior web developer with a love for building clean, responsive, and user-friendly websites. I specialize in HTML, CSS, JavaScript, and I started my journey in software engineering I'm always eager to learn new technologies. Today, I’m honing my skills at ALX software developing to become a  front end developer, My passion lies in open-source, Ai and i aim to build scalable solutions
 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 
 ## My Skills 🧠
