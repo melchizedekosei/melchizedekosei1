@@ -1,6 +1,6 @@
 # Hi there, I'm OSEI! 👋
 
-![Banner Image]( url IMG-20250422-WA0013.jpg…)
+![Banner Image]( IMG-20250422-WA0013.jpg…)
 
 
 ## Hi, I'm OSEI, a passionate junior web developer with a love for building clean, responsive, and user-friendly websites. I specialize in HTML, CSS, JavaScript, and I started my journey in software engineering I'm always eager to learn new technologies. Today, I’m honing my skills at ALX software developing to become a  front end developer, My passion lies in open-source, Ai and i aim to build scalable solutions
